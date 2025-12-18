@@ -1,6 +1,5 @@
 # Use this repo with Jenkins
-
-change after editing merge
+Test job 1
 
 ## About the app
 - "app" folder stores Sparta app
