@@ -1,8 +1,7 @@
 # Use this repo with Jenkins
 
 Test job 1 webhooks on dev - 23/12
-Test job 2 merge on dev - 23/12 - 2
->>>>>>>>> Temporary merge branch 2
+Test job 2 merge on dev - 23/12 - 4th
 
 ## About the app
 - "app" folder stores Sparta app
